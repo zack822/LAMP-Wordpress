@@ -17,8 +17,8 @@ Running this Playbook
 Quickstart guide for those already familiar with Ansible:
 1. Obtain the playbook
 
-git clone 
-cd 
+git clone https://github.com/zack822/LAMP-Wordpress.git
+cd LAMP-WordPress
 
 2. Customize Options
 
